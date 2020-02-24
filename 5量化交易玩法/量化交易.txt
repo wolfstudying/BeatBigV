@@ -1,1 +1,38 @@
-python,r,java玩量化交易程序
+几个量化交易平台：
+
+【Keras神经网络股票预测】’NeuralNetworkStocks - Using Python and keras to make stock predictions' by Vivek Palaniappan GitHub: 
+https://github.com/VivekPa/NeuralNetworkStocks
+
+【无监督/监督学习股票收益预测】’AlphaAI - Use unsupervised and supervised learning to predict stocks' by Vivek Palaniappan GitHub: 
+https://github.com/VivekPa/AlphaAI
+
+DevilYuan股票量化系统' by moyuanz GitHub: 
+https://github.com/moyuanz/DevilYuan
+
+【TuChart：基于Tushare和Echarts的股票数据视觉化应用】'支持绘制个股K线，高开低收，成交量，前／后复权，个股每日分笔' by RongZhou Li GitHub: https://github.com/Seedarchangel/TuChart 
+
+【TensorFlow股票预测】’Tensorflow work for stock prediction - Use Tensorflow to run CNN for predict stock movement. Hope to find out which pattern will follow the price rising.' by kimber-chen GitHub: 
+https://github.com/kimber-chen/Tensorflow-for-stock-prediction
+
+easytrader - 提供券银河/银河客户端/广发/湘财证券/雪球的基金、股票自动程序化交易以及自动打新，支持跟踪 joinquant /ricequant 模拟交易 和 实盘雪球组合, 量化交易组件' by shidenggui GitHub:
+https://github.com/shidenggui/easytrader
+
+【QUANTAXIS 量化金融工具箱】'QUANTAXIS 量化工具箱 - 实现了股票和期货市场的全品种回测框架.通过分布式爬虫进行数据抓取,构建了响应式的数据清洗和行情推送引擎.搭建了支持多语言的开放式回测框架.并构建了交互可视化的客户端和网站’ by Vincent yu GitHub:
+https://github.com/yutiansut/QUANTAXIS
+
+【基于Trump微博的股票自动交易机器人】’Trump2Cash - A stock trading bot powered by Trump tweets' by GitHub: http://t.cn/RJ4zKyA ref:《This Machine Turns Trump Tweets into Planned Parenthood Donations》by Max Braun 
+https://github.com/maxbbraun/trump2cash
+
+
+【阿布股票量化系统】'阿布股票量化系统' by bbfamily GitHub: 
+https://github.com/bbfamily/abu
+
+
+量化交易:
+【数学和科学的笔记/链接，包括统计学、贝叶斯、cmpsc、量化交易、机器学习等】’Notes/links on math and science, including statistics, bayes, cmpsc, quant trading, machine learning, etc' by Michael Mellinger GitHub: 
+https://github.com/melling/MathAndScienceNotes
+
+【算法交易/量化交易开发平台StockSharp】’StockSharp - Algorithmic trading and quantitative trading open source platform to develop trading robots (stock markets, forex, bitcoins and options).' http://t.cn/RaaYFKd GitHub: 
+https://github.com/StockSharp/StockSharp
+
+米筐开源量化交易框架RQAlpha 2.0发布" GitHub: https://github.com/ricequant/rqalpha

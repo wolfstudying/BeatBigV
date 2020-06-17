@@ -1,5 +1,6 @@
 几个量化交易平台：
 
+股票相关的技术基础:
 【Keras神经网络股票预测】’NeuralNetworkStocks - Using Python and keras to make stock predictions' by Vivek Palaniappan GitHub: 
 https://github.com/VivekPa/NeuralNetworkStocks
 
